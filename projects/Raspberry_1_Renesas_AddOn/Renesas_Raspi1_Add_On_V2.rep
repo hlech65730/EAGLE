@@ -1,0 +1,107 @@
+Data Expoted from: /Users/holgerlech/Documents/EAGLE/projects/Raspberry_1_Renesas_AddOn/Renesas_Raspi1_Add_On_V2.sch
+with: /Applications/EAGLE-9.1.3/examples/ulps/examples/statistic-sch.ulp
+at: 22.12.18 22:13
+EAGLE Version 9.1.3 Copyright (c) 1988-2018 Autodesk, Inc.
+
+used layers 5
+
+91 Nets
+93 Pins
+94 Symbols
+95 Names
+96 Values
+_________________________
+
+
+
+
+============================
+
+----------------------------
+LAYER
+Nb.	Name	Used
+ 91	Nets	1
+ 92	Busses	0
+ 93	Pins	1
+ 94	Symbols	1
+ 95	Names	1
+ 96	Values	1
+ 97	Info	0
+ 98	Guide	0
+100	Border	0
+101	Patch_Top	0
+102	Changes	0
+116	Patch_BOT	0
+125	_tNames	0
+126	_bNames	0
+151	L$151	0
+200	200bmp	0
+250	Descript	0
+251	SMDround	0
+254	cooling	0
+
+----------------------------
+CLASS
+# - Name	min. Width	Clearance	min. Drill	Used
+0 - default	0.0000 	0.0000 	0.0000 	59  
+
+
+----------------------------
+LIBRARY	Quant.
+RLC	35  
+rcl	1   
+Renesas_78k0_0_2	1   
+smd-ipc	1   
+Hand_Solder_Special	1   
+jumper	5   
+led	8   
+supply1	9   
+wirepad	1   
+crystal	1   
+m-pad-2.1	3   
+switch-misc	2   
+Supply	11  
+con-hirose	1   
+pinhead_2mm	1   
+pinhead2	1   
+Connecto	1   
+
+PACKAGE	Quant.
+0603	35  
+SANYO-OSCON_SMD_F8	1   
+SSOP30	1   
+SOJ18-4	1   
+74LVC1G18	1   
+SJ	5   
+CHIP-LED0603	8   
+1,6/0,8	1   
+HC49UP	1   
+SOT23	3   
+DT6	2   
+UX60-MB-5ST	1   
+2X08	1   
+2X13	1   
+2X3	1   
+
+DEVICE	Quant.
+C-0603	7   
+CPOL-EUSANYO_SMD_F8	1   
+78F0730_CAB_AX	1   
+ULN2803	1   
+74LVC1G18	1   
+SJ	5   
+LEDCHIP-LED0603	8   
+1,6/0,8	1   
+CRYSTALHC49UP	1   
+BSS138	3   
+R-0603	28  
+DT6	2   
+MINI-USB-UX60-MB-5ST	1   
+PINHD-2X8	1   
+PINHD-2X13	1   
+2X3	1   
+
+
+----------------------------
+
+End report
